@@ -14,6 +14,7 @@ Later I found out the OEM: PC sensor http://www.pcsensor.com/index.php?_a=viewPr
 
   1. I programmed one pedal to send the letter "i" and the other to send the &lt;Esc&gt;
   2. Took both pedals apart
+     <img src="https://github.com/alevchuk/vim-clutch/raw/master/pic1.jpg" />
   3. Wich electrical tape, attached 2 toothpicks to the plastic blade that goes between the Infrared sensors when the pedal is in the down possition.
   4. Placed both sensors boards into one pedal enclosure so that, as the pedal is pressed, first the toothpicks will cross the &lt;Esc&gt; sensor, and after that the plastic blade will enter the "i" sensor. As the pedal is release the toothpicks will cross the &lt;Esc&gt; sensor again.
 
