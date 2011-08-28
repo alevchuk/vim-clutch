@@ -10,7 +10,13 @@ Later I found out the OEM: PC sensor http://www.pcsensor.com/index.php?_a=viewPr
 
 2. The peddal is programmable via a Windows GUI, which came on a CD. Once programmed you can plug it into any Mac or Linux and it will work.
 
-3. Unfortunately, only the Pedal Down event is programmable. But we need to be able to press &lt;Esc&gt; as the pedal is release. I emailed PC sensor, reaching out to collaborate but I just got the pedals from the post office today and really wanted it to work. So I stated hacking at it and came up with a solution.
+3. Unfortunately, only the Pedal Down event is programmable. But we need to be able to press &lt;Esc&gt; as the pedal is release. I emailed PC sensor, reaching out to collaborate but I just got the pedals from the post office today and really wanted it to work. So I stated hacking at it and came up with a solution in a about 1 hour.
+
+  1. I programmed one pedal to send the letter "i" and the other to send the &lt;Esc&gt;
+  2. Took both pedals apart
+  3. Wich electrical tape, attached 2 toothpicks to the plastic blade that goes between the Infrared sensors when the pedal is in the down possition.
+  4. Placed both sensors boards into one pedal enclosure so that, as the pedal is pressed, first the toothpicks will cross the &lt;Esc&gt; sensor, and after that the plastic blade will enter the "i" sensor. As the pedal is release the toothpicks will cross the &lt;Esc&gt; sensor again.
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"
