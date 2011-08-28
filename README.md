@@ -1,4 +1,4 @@
-VIM Clutch by Aleksandr Levchuk
+## VIM Clutch by Aleksandr Levchuk ##
 
 VIM Clutch is a hardware pedal for improving text editing speed of VIM (<a href="http://www.vim.org/about.php">1</a>, <a href="http://www.viemu.com/a-why-vi-vim.html">2</a>) users. When pressed down, the pedal types "i" causing VIM to go into Insert Mode. When released, it types &lt;Esc&gt; and you are back in Normal Mode.
 
@@ -16,9 +16,29 @@ Later I found out the OEM: PC sensor http://www.pcsensor.com/index.php?_a=viewPr
   2. Took both pedals apart
      <img src="https://github.com/alevchuk/vim-clutch/raw/master/pic1.jpg" />
   3. Wich electrical tape, attached 2 toothpicks to the plastic blade that goes between the Infrared sensors when the pedal is in the down possition.
+     <img src="https://github.com/alevchuk/vim-clutch/raw/master/pic2.jpg" />
   4. Placed both sensors boards into one pedal enclosure so that, as the pedal is pressed, first the toothpicks will cross the &lt;Esc&gt; sensor, and after that the plastic blade will enter the "i" sensor. As the pedal is release the toothpicks will cross the &lt;Esc&gt; sensor again.
+     <img src="https://github.com/alevchuk/vim-clutch/raw/master/pic3.jpg" />
 
 
+## Acknowledgments ##
+
+I would like to say Thank You to:
+ * Sean Mahoney for suggesting the name Vim Clutch. 
+ * Anton Polishko for suggesting pressing &lt;Esc&gt; every time right before pressing "i" in order to avoid typing undesired "i"s.
+ * Tyler Backman for letting my use a Windows computer.
+ * The company PC Sensor for building such a clean and inc readably inexpensive device.
+
+
+## Finally the first VIM Clutch ##
+
+  <img src="https://github.com/alevchuk/vim-clutch/raw/master/pic4.jpg" />
+
+
+## Extras ##
+
+
+## License ##
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"
 ><img alt="Creative Commons License"
