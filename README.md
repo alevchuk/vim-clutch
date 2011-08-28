@@ -41,7 +41,7 @@ I would like to say Thank You to:
 
 ## Has anyone thought of this before? ##
 
-Perhaps, but I was not able to find any mention of this. I searched for this occasionally for a span of more than 2 years. Nothing like this comes up on Google. I shared this with a lot of my friends and no one mentioned that this was already thought of by someone else.
+Perhaps, but I was not able to find any mention of using a pedal for Vi or VIM. I searched for this occasionally for a span of more than 2 years. Nothing like this comes up on Google. I shared my idea with a lot of my friends and no one mentioned that this was already thought of by someone else.
 
 As a result I consider myself the inventor of the VIM Clutch.
 
