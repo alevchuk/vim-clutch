@@ -1,6 +1,6 @@
 ## VIM Clutch by Aleksandr Levchuk ##
 
-VIM Clutch is a hardware pedal for improving text editing speed of VIM (<a href="http://www.vim.org/about.php">1</a>, <a href="http://www.viemu.com/a-why-vi-vim.html">2</a>) users. When pressed down, the pedal types "i" causing VIM to go into Insert Mode. When released, it types &lt;Esc&gt; and you are back in Normal Mode.
+VIM Clutch is a hardware pedal for improved text editing speed for users of VIM (<a href="http://www.vim.org/about.php">1</a>, <a href="http://www.viemu.com/a-why-vi-vim.html">2</a>). When the pedal is pressed down, the pedal types "i" causing VIM to go into Insert Mode. When released, it types &lt;Esc&gt; and you are back in Normal Mode.
 
 I just made one and it works great. Here is how I did it.
 
@@ -24,10 +24,14 @@ Later I found out the OEM: PC sensor http://www.pcsensor.com/index.php?_a=viewPr
 ## Acknowledgments ##
 
 I would like to say Thank You to:
- * Sean Mahoney for suggesting the name Vim Clutch. 
- * Anton Polishko for suggesting pressing &lt;Esc&gt; every time right before pressing "i" in order to avoid typing undesired "i"s.
- * Tyler Backman for letting my use a Windows computer.
- * The company PC Sensor for building such a clean and inc readably inexpensive device.
+
+   * Sean Mahoney for suggesting the name Vim Clutch. 
+
+   * Anton Polishko for suggesting pressing &lt;Esc&gt; every time right before pressing "i" in order to avoid typing undesired "i"s.
+
+   * Tyler Backman for letting my use a Windows computer.
+
+   * The company PC Sensor for building such a clean and inc readably inexpensive device.
 
 
 ## Finally the first VIM Clutch ##
@@ -35,7 +39,20 @@ I would like to say Thank You to:
   <img src="https://github.com/alevchuk/vim-clutch/raw/master/pic4.jpg" />
 
 
+## Has anyone thought of this before? ##
+
+Perhaps, but I was not able to find any mention of this. I searched for this occasionally for a span of more than 2 years. Nothing like this comes up on Google. I shared this with a lot of my friends and no one mentioned that this was already thought of by someone else.
+
+As a result I consider myself the inventor of the VIM Clutch.
+
+
 ## Extras ##
+
+PC Sensor also has a triple version of the pedal. I will order two of those as well. I will program:
+
+   * The left pedal to "I" - insert at the beginning of the line
+   * The middle pedal to "i" - regular insert mode
+   * The right pedal to "A" - insert at the end of the line
 
 
 ## License ##
