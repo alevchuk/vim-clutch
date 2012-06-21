@@ -49,7 +49,7 @@ I would like to say Thank You to:
 
    * Anton Polishko for suggesting pressing &lt;Esc&gt; every time right before pressing "i" in order to avoid typing undesired "i"s.
 
-   * Tyler Backman for letting my use a Windows computer.
+   * Tyler Backman for letting me use a Windows computer.
 
    * The company PC Sensor for building such a clean and incredibly inexpensive device.
 
