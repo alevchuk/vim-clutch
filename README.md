@@ -77,10 +77,7 @@ PC Sensor also has a triple version of the pedal. I will order two of those as w
 
 ## License ##
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"
-><img alt="Creative Commons License"
-style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"i
- /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License"style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" 
 href="http://purl.org/dc/dcmitype/Text" property="dct:title" 
 rel="dct:type">The VIM Clutch work</span> by <a 
 xmlns:cc="http://creativecommons.org/ns#" 
