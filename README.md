@@ -6,7 +6,10 @@ I just made one and it works great. Here is how I did it.
 
 1. Purchased 2 USB foot switches (pedals) from China:
 I used Ankaka.com and payed 20 USD (includes 2 pedals and shipping to California). <br />
-Later I found out the OEM: PC sensor http://www.pcsensor.com/index.php?_a=viewProd&productId=2 $5.50 per pedal
+Later I found out the OEM: PC sensor http://www.pcsensor.com/index.php?_a=viewProd&productId=2 $5.50 per pedal<br />
+Also they sell these form Hong Kong:<br />
+http://www.suntekstore.com/goods-10012491-new_usb_fashion_action_control_keyboard_hid_foot_switch_pedal_.html<br />
+http://www.suntekstore.com/goods-10012491-new_usb_fashion_action_control_keyboard_hid_foot_switch_pedal_.html
 
 2. The pedal is programmable via a Windows GUI. Once programmed you can plug it into any Mac or Linux and it will work.
 
