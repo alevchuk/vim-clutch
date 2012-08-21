@@ -11,7 +11,7 @@ Also they sell these form Hong Kong:<br />
 http://www.suntekstore.com/goods-10010504-pc_usb_foot_switch_keyboard_pedal.html<br />
 http://www.suntekstore.com/goods-10012491-new_usb_fashion_action_control_keyboard_hid_foot_switch_pedal_.html
 
-2. The pedal is programmable via a Windows GUI. Once programmed you can plug it into any Mac or Linux and it will work.
+2. The pedal is programmable via a Windows GUI or on Mac/Linux via https://github.com/rgerganov/footswitch . Once programmed you can plug it into any Mac or Linux and it will work.
 
 3. Unfortunately, only the Pedal Down event is programmable. But we need to be able to press &lt;Esc&gt; as the pedal is release. I emailed PC sensor, reaching out to collaborate but I just got the pedals from the post office today and really wanted it to work. So I stated hacking at it and came up with a solution in a about 1 hour.
 
