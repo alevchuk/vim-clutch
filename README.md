@@ -1,3 +1,6 @@
+Updates:
+  - 2021-10-21 lots of vim pedal projects sprung up, check our my tweet about new work and great summary by l00sed https://twitter.com/alevchuk/status/1449799391389229058
+
 ## VIM Clutch by Aleksandr Levchuk ##
 
 VIM Clutch is a hardware pedal for improved text editing speed for users of the magnificent VIM text editor (<a href="http://www.vim.org/about.php">1</a>, <a href="http://www.viemu.com/a-why-vi-vim.html">2</a>). When the pedal is pressed down, the pedal types "i" causing VIM to go into Insert Mode. When released, it types &lt;Esc&gt; and you are back in Normal Mode.
